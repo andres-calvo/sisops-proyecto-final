@@ -9,6 +9,7 @@ const App = () => {
     <div className="content">
       <header>
         <h1>{t('welcome')}</h1>
+        <p>Dummy Update to trigger a build</p>
         <LanguageSwitcher />
       </header>
       <Outlet />
