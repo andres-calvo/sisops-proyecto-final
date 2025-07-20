@@ -1,6 +1,8 @@
 # Rsbuild project
 
-Enlace Video: https://youtu.be/W9rUtdv4xFI
+Enlace Video como funciona la arquitectura en vivo: https://youtu.be/3rANlB_ccv4
+Enlace Video como correr la app: https://youtu.be/W9rUtdv4xFI
+
 
 ## Setup
 
