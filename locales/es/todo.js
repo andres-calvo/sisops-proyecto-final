@@ -1,5 +1,5 @@
 export default {
-  "title": "Lista de Tareas Hola soy un nuevo texto",
+  "title": "Lista de Tareas Hola",
   "placeholder": "Nueva tarea...",
   "add": "Agregar"
 }; 
